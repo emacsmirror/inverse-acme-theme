@@ -43,6 +43,9 @@
 ;; working with the community to add further mode support and align
 ;; the project more closely with Vim Gruvbox.
 
+;; background is set as gruvbox-dark0
+;; text is set as gruvbox-light0
+
 ;;; Code:
 (eval-when-compile
   (require 'cl-lib))
@@ -385,12 +388,12 @@
   (isearch-fail                              (:foreground gruvbox-light0 :background gruvbox-bright_red))
 
   ;; markdown-mode
-  (markdown-header-face-1                    (:foreground gruvbox-neutral_blue))
-  (markdown-header-face-2                    (:foreground gruvbox-neutral_yellow))
-  (markdown-header-face-3                    (:foreground gruvbox-neutral_purple))
-  (markdown-header-face-4                    (:foreground gruvbox-neutral_red))
-  (markdown-header-face-5                    (:foreground gruvbox-neutral_green))
-  (markdown-header-face-6                    (:foreground gruvbox-neutral_aqua))
+  (markdown-header-face-1                    (:foreground gruvbox-light0))
+  (markdown-header-face-2                    (:foreground gruvbox-light0))
+  (markdown-header-face-3                    (:foreground gruvbox-light0))
+  (markdown-header-face-4                    (:foreground gruvbox-light0))
+  (markdown-header-face-5                    (:foreground gruvbox-light0))
+  (markdown-header-face-6                    (:foreground gruvbox-light0))
 
   ;; anzu-mode
   (anzu-mode-line                            (:foreground gruvbox-bright_yellow :weight 'bold))
