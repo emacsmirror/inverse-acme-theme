@@ -184,6 +184,9 @@
   (rainbow-delimiters-depth-12-face          (:foreground gruvbox-delimiter-four))
   (rainbow-delimiters-unmatched-face         (:background nil :foreground gruvbox-light0))
 
+  ;; sh-mode
+  (sh-quoted-exec (:foreground gruvbox-light0))
+
   ;; linum-relative
   (linum-relative-current-face               (:background gruvbox-dark1 :foreground gruvbox-light4))
 
