@@ -187,6 +187,21 @@
   ;; sh-mode
   (sh-quoted-exec (:foreground gruvbox-light0))
 
+  ;; eshell-mode
+  (eshell-ls-archive      (:foreground gruvbox-light0))
+  (eshell-ls-backup       (:foreground gruvbox-light0))
+  (eshell-ls-clutter      (:foreground gruvbox-light0))
+  (eshell-ls-directory    (:foreground gruvbox-light0))
+  (eshell-ls-executable   (:foreground gruvbox-light0))
+  (eshell-ls-missing      (:foreground gruvbox-light0))
+  (eshell-ls-product      (:foreground gruvbox-light0))
+  (eshell-ls-readonly     (:foreground gruvbox-light0))
+  (eshell-ls-special      (:foreground gruvbox-light0))
+  (eshell-ls-symlink      (:foreground gruvbox-light0))
+  (eshell-ls-unreadable   (:foreground gruvbox-light2)) 
+  (eshell-prompt          (:foreground gruvbox-gray))
+
+
   ;; linum-relative
   (linum-relative-current-face               (:background gruvbox-dark1 :foreground gruvbox-light4))
 
