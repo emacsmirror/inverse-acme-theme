@@ -50,23 +50,23 @@ This theme contains custom support for the following features and plugins:
 
 ## Installation and usage
 
-The recommended way to install the Gruvbox theme is with MELPA.
+The recommended way to install the Inverse-Acme theme is with MELPA.
 
 ### MELPA
 
 If you're an Emacs 24 user or you have a recent version of `package.el` you can
-install the Gruvbox theme from the [MELPA
-repository](http://melpa.milkbox.net/#/gruvbox-theme). The version of
-`gruvbox-theme` there will always be up-to-date.
+install the Inverse-Acme theme from the [MELPA
+repository](http://melpa.milkbox.net/#/inverse-acme-theme). The version of
+`inverse-acme-theme` there will always be up-to-date.
 
 ### No `package.el`
 
 The following instructions are for in the case where you don't have access to
 `package.el` for some reason.
 
-1. Download `gruvbox-theme.el`, and put it in `~/.emacs.d/themes`. For example:
+1. Download `inverse-acme-theme.el`, and put it in `~/.emacs.d/themes`. For example:
    ```shell
-   curl https://raw.github.com/Greduan/emacs-theme-gruvbox/master/gruvbox-theme.el > ~/.emacs.d/themes/gruvbox-theme.el
+   curl https://raw.github.com/Greduan/emacs-theme-inverse-acme/master/inverse-acme-theme.el > ~/.emacs.d/themes/inverse-acme-theme.el
    ```
 
 1. Tell Emacs where to find themes in your `init.el` or `.emacs` file:
@@ -76,17 +76,17 @@ The following instructions are for in the case where you don't have access to
 
 1. Enable the theme:
    ```
-   M-x load-theme RET gruvbox
+   M-x load-theme RET inverse-acme
    ```
    Or add the following to your `init.el` or `.emacs` file to load the theme at startup:
    ```
-   (load-theme 'gruvbox t)
+   (load-theme 'inverse-acme t)
    ```
 
 
 ## Issues
 
-See https://github.com/greduan/emacs-theme-gruvbox/issues
+See https://github.com/greduan/emacs-theme-inverse-acme/issues
 
 If you want the theme to support something please open a new issue and we'll
 try our best to make it happen. :smile:
