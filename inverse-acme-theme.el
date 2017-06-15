@@ -438,7 +438,7 @@
   (diredp-read-priv                          (:foreground gruvbox-bright_red  :background gruvbox-dark_red))
   (diredp-write-priv                         (:foreground gruvbox-bright_aqua :background gruvbox-dark_aqua)))
 
- (custom-theme-set-variables 'gruvbox
+ (custom-theme-set-variables 'inverse-acme
                              `(ansi-color-names-vector
                                [,gruvbox-dark1
                                 ,gruvbox-neutral_red
@@ -456,7 +456,7 @@
                   (file-name-as-directory
                    (file-name-directory load-file-name))))
 
-(provide-theme 'gruvbox)
+(provide-theme 'inverse-acme)
 
 ;; Local Variables:
 ;; eval: (when (fboundp 'rainbow-mode) (rainbow-mode +1))
