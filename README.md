@@ -1,21 +1,5 @@
-![Gruvbox Head](gruvbox-head.png "Gruvbox theme header")
-
-Gruvbox is a retro groove color scheme for Emacs. It is a port of the Vim
-version originally by [Pavel Pertsev](https://github.com/morhetz) found
-[here](https://github.com/morhetz/gruvbox).
-
-Pavel's version has evolved since this version was made, and now
-includes a light version, and other changes.  Syntax highlighting is
-applied differently in the Vim version too.
-
-We are in the process of adding a light version and we'll also try to add
-a version which maps syntax closer to the current Vim Gruvbox.
-
-We won't be changing the main Emacs Gruvbox theme, because there's a
-lot of people who've been using it for a few years, and we don't want
-to mess with their preferences.
-
-![Gruvbox theme screenshot](screenshot.png "Gruvbox theme screenshot")
+This is a acme inspired theme but the colors are reversed. I used the color palettes that I forked from the
+[Gruvbox-Theme](https://github.com/greduan/emacs-theme-gruvbox).
 
 ![Gruvbox Palette Dark](darktones-palette.png "Gruvbox theme palette")
 
