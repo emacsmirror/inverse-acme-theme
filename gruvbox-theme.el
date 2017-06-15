@@ -1,37 +1,13 @@
-;;; gruvbox-theme.el --- A retro-groove colour theme for Emacs
+;; inverse-acme --- A theme that looks like an inversed Acme color scheme.
 
-;; Copyright (c) 2013 Lee Machin
-;; Copyright (c) 2013-2016 Greduan
-;; Copyright (c) 2016-2017 Jason Milkins
-
-;; Author: Jason Milkins <jasonm23@gmail.com>
+;; Author: Dylan Johnson
 ;; (current maintainer)
 ;;
-;; Author-list: Lee Machin <ljmachin@gmail.com>,
-;;              Greduan <me@greduan.com>
-;;
-;; URL: http://github.com/Greduan/emacs-theme-gruvbox
-;; Version: 1.12.0
-
+;; URL: http://github.com/djohnson/emacs-theme-gruvbox
 ;; Package-Requires: ((autothemer "0.2"))
 
-;;; Commentary:
-
-;; Using autothemer since 1.00
-
-;; A port of the Gruvbox colorscheme for Vim, built on top of the new built-in
-;; theme support in Emacs 24.
-;;
-;; This theme contains my own modifications and it's a bit opinionated
-;; sometimes, deviating from the original because of it. I try to stay
-;; true to the original as much as possible, however. I only make
-;; changes where I would have made the changes on the original.
-;;
-;; Since there is no direct equivalent in syntax highlighting from Vim to Emacs
-;; some stuff may look different, especially in stuff like JS2-mode, where it
-;; adds stuff that Vim doesn't have, in terms of syntax.
-
 ;;; Credits:
+;; Forked from the gruvbox-theme just to have access to all the color definitions. 
 
 ;; Pavel Pertsev created the original theme for Vim, on which this port
 ;; is based.
@@ -45,6 +21,8 @@
 
 ;; background is set as gruvbox-dark0
 ;; text is set as gruvbox-light0
+
+;; I haven't done anything with the Xterm/256 colors yet.
 
 ;;; Code:
 (eval-when-compile
@@ -60,8 +38,8 @@
   :options '(soft medium hard))
 
 (autothemer-deftheme
- gruvbox
- "A retro-groove colour theme"
+ inverse-acme
+ "Acme but reversed; and in a better editor."
 
  ((((class color) (min-colors #xFFFFFF))        ; col 1 GUI/24bit
    ((class color) (min-colors #xFF)))           ; col 2 Xterm/256
