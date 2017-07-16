@@ -86,7 +86,7 @@ The following instructions are for in the case where you don't have access to
 
 ## Issues
 
-See https://github.com/greduan/emacs-theme-inverse-acme/issues
+See https://github.com/dcjohnson/inverse-acme-theme/issues
 
 If you want the theme to support something please open a new issue and we'll
 try our best to make it happen. :smile:
@@ -96,9 +96,10 @@ try our best to make it happen. :smile:
 ```
 The MIT License (MIT)
 
-Copyright (c) 2013 Lee Machin
+Original work Copyright (c) 2013 Lee Machin
               2013-2016 Greduan
               2015-2017 Jason Milkins
+Modified work Copyright 2016 Dylan Johnson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
