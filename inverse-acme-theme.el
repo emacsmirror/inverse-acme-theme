@@ -179,7 +179,10 @@
   (eshell-ls-unreadable   (:foreground gruvbox-light2)) 
   (eshell-prompt          (:foreground gruvbox-gray))
 
-
+  ;; for ocaml
+  (tuareg-font-lock-operator-face (:foreground gruvbox-light0))
+  (tuareg-font-lock-governing-face (:foreground gruvbox-light0))
+  
   ;; linum-relative
   (linum-relative-current-face               (:background gruvbox-dark1 :foreground gruvbox-light4))
 
