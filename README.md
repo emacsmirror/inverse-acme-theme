@@ -1,6 +1,6 @@
 ![logo](images/logo.png)
 
-This is a acme inspired theme but the colors are reversed. I used the color palettes that I forked from the
+This is a Acme inspired theme with reversed colors. I used the color palettes that I forked from the
 [Gruvbox-Theme](https://github.com/greduan/emacs-theme-gruvbox).
 
 ## Example
@@ -97,7 +97,7 @@ The following instructions are for in the case where you don't have access to
 See https://github.com/dcjohnson/inverse-acme-theme/issues
 
 If you want the theme to support something please open a new issue and we'll
-try our best to make it happen. :smile:
+try our best to make it happen.
 
 ## License
 

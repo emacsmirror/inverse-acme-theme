@@ -1,4 +1,4 @@
-;;; inverse-acme-theme.el --- A theme that looks like an inverse of Acmes color scheme.
+;;; inverse-acme-theme.el --- A theme that looks like an inverse of Acme's color scheme.
 
 ;; Author: Dylan Johnson
 ;; (current maintainer)
@@ -23,11 +23,8 @@
 ;; background is set as acme-dark0
 ;; text is set as acme-light0
 
-;; I haven't done anything with the Xterm/256 colors yet.
-
-
 ;;; Commentary:
-;; 
+;; I haven't done anything with the Xterm/256 colors yet.
 
 ;;; Code:
 (provide 'inverse-acme-theme)
