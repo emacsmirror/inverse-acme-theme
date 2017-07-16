@@ -52,6 +52,9 @@ This theme contains custom support for the following features and plugins:
 - [Js2-mode](https://github.com/mooz/js2-mode)
 - [Linum-relative](https://github.com/emacsmirror/linum-relative)
 - Whitespace-mode
+- Tuareg (OCaml)
+- Proof-General (for Coq)
+- Bash
 
 ## Installation and usage
 
