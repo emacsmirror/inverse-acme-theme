@@ -1,26 +1,28 @@
+![logo](images/logo.png)
+
 This is a acme inspired theme but the colors are reversed. I used the color palettes that I forked from the
 [Gruvbox-Theme](https://github.com/greduan/emacs-theme-gruvbox).
 
 ## Example
-![inverse acme](example.png)
+![inverse acme](images/example.png)
 
-![Gruvbox Palette Dark](darktones-palette.png "Gruvbox theme palette")
+![Gruvbox Palette Dark](images/darktones-palette.png "Gruvbox theme palette")
 
-![Gruvbox Palette Mid](midtones-palette.png "Gruvbox theme palette")
+![Gruvbox Palette Mid](images/midtones-palette.png "Gruvbox theme palette")
 
-![Gruvbox Palette Light](lighttones-palette.png "Gruvbox theme palette")
+![Gruvbox Palette Light](images/lighttones-palette.png "Gruvbox theme palette")
 
-![Gruvbox Palette Bright](bright-colors-palette.png "Gruvbox theme palette")
+![Gruvbox Palette Bright](images/bright-colors-palette.png "Gruvbox theme palette")
 
-![Gruvbox Palette Neutral](neutral-colors-palette.png "Gruvbox theme palette")
+![Gruvbox Palette Neutral](images/neutral-colors-palette.png "Gruvbox theme palette")
 
-![Gruvbox Palette Faded](faded-colors-palette.png "Gruvbox theme palette")
+![Gruvbox Palette Faded](images/faded-colors-palette.png "Gruvbox theme palette")
 
-![Gruvbox Palette Dark Notes](darknotes-palette.png "Gruvbox theme palette")
+![Gruvbox Palette Dark Notes](images/darknotes-palette.png "Gruvbox theme palette")
 
-![Gruvbox Palette Solo Notes](solonotes-palette.png "Gruvbox theme palette")
+![Gruvbox Palette Solo Notes](images/solonotes-palette.png "Gruvbox theme palette")
 
-![Gruvbox Palette Rainbow Delimiters](rainbow-delimiters-palette.png "Gruvbox theme palette")
+![Gruvbox Palette Rainbow Delimiters](images/rainbow-delimiters-palette.png "Gruvbox theme palette")
 
 ## Supports
 
