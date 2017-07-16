@@ -7,10 +7,8 @@
 ;; Version: 1.0
 ;; Package-Requires: ((autothemer "0.2"))
 
-;;; Commentary
-
 ;;; Credits:
-;; Forked from the gruvbox-theme just to have access to all the color definitions. 
+;; Forked from the gruvbox-theme just to have access to all the color definitions.
 
 ;; Pavel Pertsev created the original theme for Vim, on which this port
 ;; is based.
@@ -26,6 +24,10 @@
 ;; text is set as gruvbox-light0
 
 ;; I haven't done anything with the Xterm/256 colors yet.
+
+
+;;; Commentary:
+;; 
 
 ;;; Code:
 (eval-when-compile
@@ -179,7 +181,7 @@
   (eshell-ls-readonly     (:foreground gruvbox-light0))
   (eshell-ls-special      (:foreground gruvbox-light0))
   (eshell-ls-symlink      (:foreground gruvbox-light0))
-  (eshell-ls-unreadable   (:foreground gruvbox-light2)) 
+  (eshell-ls-unreadable   (:foreground gruvbox-light2))
   (eshell-prompt          (:foreground gruvbox-gray))
 
   ;; ocaml
