@@ -1,6 +1,9 @@
 This is a acme inspired theme but the colors are reversed. I used the color palettes that I forked from the
 [Gruvbox-Theme](https://github.com/greduan/emacs-theme-gruvbox).
 
+## Example
+![inverse acme](example.png)
+
 ![Gruvbox Palette Dark](darktones-palette.png "Gruvbox theme palette")
 
 ![Gruvbox Palette Mid](midtones-palette.png "Gruvbox theme palette")
