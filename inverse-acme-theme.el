@@ -1,10 +1,13 @@
-;; inverse-acme --- A theme that looks like an inversed Acme color scheme.
+;;; inverse-acme-theme.el --- A theme that looks like an inverse of Acmes color scheme.
 
 ;; Author: Dylan Johnson
 ;; (current maintainer)
 ;;
 ;; URL: http://github.com/djohnson/emacs-theme-gruvbox
+;; Version: 1.0
 ;; Package-Requires: ((autothemer "0.2"))
+
+;;; Commentary
 
 ;;; Credits:
 ;; Forked from the gruvbox-theme just to have access to all the color definitions. 
@@ -469,4 +472,4 @@
 ;; eval: (when (fboundp 'rainbow-mode) (rainbow-mode +1))
 ;; End:
 
-;;; gruvbox-theme.el ends here
+;;; inverse-acme-theme.el ends here
