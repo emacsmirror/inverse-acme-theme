@@ -5,7 +5,7 @@
 ;;
 ;; URL: http://github.com/djohnson/inverse-acme-theme
 ;; Version: 1.0
-;; Package-Requires: ((autothemer "0.2"))
+;; Package-Requires: ((autothemer "0.2") (cl-lib "0.5"))
 
 ;;; Credits:
 ;; Forked from the gruvbox-theme just to have access to all the color definitions.
@@ -470,9 +470,5 @@
                    (file-name-directory load-file-name))))
 
 (provide-theme 'inverse-acme)
-
-;; Local Variables:
-;; eval: (when (fboundp 'rainbow-mode) (rainbow-mode +1))
-;; End:
 
 ;;; inverse-acme-theme.el ends here
