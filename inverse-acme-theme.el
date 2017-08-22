@@ -189,6 +189,7 @@
   ;; coq via proof general
   (coq-solve-tactics-face (:foreground acme-light0))
   (proof-tactics-name-face (:foreground acme-light0))
+  (proof-tacticals-name-face (:foreground acme-light0))
   
   ;; linum-relative
   (linum-relative-current-face               (:background acme-dark1 :foreground acme-light4))
