@@ -188,6 +188,7 @@
 
   ;; coq via proof general
   (coq-solve-tactics-face (:foreground acme-light0))
+  (coq-cheat-face (:foreground acme-light0))
   (proof-tactics-name-face (:foreground acme-light0))
   (proof-tacticals-name-face (:foreground acme-light0))
   
